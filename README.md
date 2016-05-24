@@ -1,0 +1,2 @@
+# Collegeblog
+collegedetails
